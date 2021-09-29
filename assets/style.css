@@ -1,0 +1,166 @@
+body {
+    /* Typography Declarations */
+    color: #222222;
+    font-size: 16px;
+    font-family: "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+
+.header {
+    /* Layout Declarations */
+    color: #ffffff;
+    margin-top: -3.2px;
+    /* Typography Declarations */
+    font-family: "Open Sans", "Helvetica Neue", sans-serif;
+    font-weight: bold;
+    font-size: 96px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+
+.header {
+    background-color: rgb(90, 7, 32);
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-top: solid 16px #181964;
+    
+}
+
+.header {
+    margin-top: -3.2px;
+    font-family: "Open Sans", "Helvetica Neue", sans-serif;
+    font-weight: bold;
+    font-size: 45px;
+    letter-spacing: -0.32px;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+h1{
+    text-align: left;
+}
+
+.about-me p{
+    text-align: left;
+    font-size: 22px;
+    justify-content: left;
+
+}
+.about-me
+{
+    max-width: 608px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 32px;
+}
+
+.about-me  {
+    /* Typography Declarations */
+    font-weight: 300;
+    letter-spacing: 1.2px;
+}
+
+.about-me {
+    font-family: "Gentium Book Basic", Georgia, serif;
+    font-size: 19.2px;
+    font-weight: bold;
+    /* Layout */
+    margin: 32px 0px 16px 0px;
+    text-align: left;
+}
+
+.about-me p{
+    text-align: center;
+}
+
+.section h1 {
+    margin-top: 32px;
+    text-align: left;
+}
+
+.header {
+    margin-bottom: 1.6px;
+    font-family: "Gentium Book Basic", Georgia, serif;
+    font-size: 32px;
+}
+
+
+h2 {
+    /* Typography Declarations */
+    font-family: "Gentium Book Basic", Georgia, serif;
+    font-size: 16px;
+    font-weight: bold;
+
+}
+
+.work {
+    font-family: "Gentium Book Basic", Georgia, serif;
+    font-size: 19.2px;
+    font-weight: bold;
+    /* Layout */
+    margin: 32px 0px 16px 0px;
+    text-align: left;
+
+
+}
+.content-footer {
+    margin: 50px 0;
+    padding: 20px 0;
+    text-align: center;
+    background-color: #741212;
+    text-decoration: none;
+}
+
+.work img {
+    margin: 10px auto;
+    max-width: 150px; 
+    background-image: url("https://user-images.githubusercontent.com/89872694/134604117-cb424965-f8bb-4beb-8360-41d5707520f8.jpeg")
+}
+
+.content-footer {
+    color: #F7EDE1;
+}
+a {
+    font-weight: bold;
+    text-decoration: none;
+    color: #F1C863;
+}
+
+h2 {
+    /* Layout Declarations */
+    margin-bottom: 0px;
+    /* Typography Declarations */
+    font-family: "Gentium Book Basic", Georgia, serif;
+    font-size: 25px;
+    line-height: normal;
+    text-decoration: underline;
+
+}
+
+ul.nav {
+	font-family : Chunkfive;
+	font-size : 25px;
+	color : white;
+	text-align: right;
+	}
+
+ul.nav li {
+	display: inline;
+	margin : 0;
+	padding-left : 14px;
+	padding-top : 5px;
+	}
+
+.about-me img{
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+    justify-content: center;
+}
+
+ul.footer {
+    font-size : 20px;
+	color : white;
+    text-align: center;
+    display:inline;
+}
