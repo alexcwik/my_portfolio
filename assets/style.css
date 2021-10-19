@@ -113,7 +113,7 @@ h2 {
 
 .work img {
     margin: 10px auto;
-    max-width: 150px; 
+    max-width: 400px; 
 
 }
 
@@ -167,4 +167,8 @@ ul.footer {
 	color : white;
     text-align: center;
     display:inline;
+}
+
+.code-refactor{
+    max-width: 100px;
 }
